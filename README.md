@@ -12,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me
+🌱 I am a student of the Master's program of the Computer Graphics Laboratory of Moscow State University and the Yandex School of Data Analysis. 
+The main area of my activity now is computer vision.
+
+
+📫 How to reach me: arsenii.shirokov@graphics.cs.msu.ru

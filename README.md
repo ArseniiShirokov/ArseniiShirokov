@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
-🌱 I am a student of the Master's program of the Computer Graphics Laboratory of Moscow State University and the Yandex School of Data Analysis. 
-The main area of my activity now is computer vision.
+I am a student of the Master's program of the Computer Graphics Laboratory of Moscow State University and the Yandex School of Data Analysis. 
+
+Now I am actively engaged in research in the field of deep learning.
+
+This repository serves more as a repository for educational projects, but also for some of my pet or open source projects.
 
 
 📫 How to reach me: arsenii.shirokov@graphics.cs.msu.ru

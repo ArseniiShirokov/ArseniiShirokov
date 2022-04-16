@@ -21,3 +21,6 @@ This repository serves more as a repository for educational projects, but also f
 
 
 📫 How to reach me: arsenii.shirokov@graphics.cs.msu.ru
+
+## Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)

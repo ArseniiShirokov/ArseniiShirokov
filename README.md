@@ -29,3 +29,6 @@ This repository serves more as a repository for educational projects, but also f
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+## Publications
+I'm on Research Gate: https://www.researchgate.net/profile/Arsenii-Shirokov

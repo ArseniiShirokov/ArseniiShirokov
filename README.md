@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
-I am a student of the [Yandex School of Data Analysis](https://academy.yandex.com/dataschool/) and "Computer vision, graphics and image processing" master program of the [Graphics and Media Lab](https://graphics.cs.msu.ru/home.html). 
+I am a student of the [Yandex School of Data Analysis](https://academy.yandex.com/dataschool/) and "Computer vision, graphics and image processing" master's program of the [Graphics and Media Lab](https://graphics.cs.msu.ru/home.html). 
 
 Now I am actively engaged in research in the field of deep learning.
 

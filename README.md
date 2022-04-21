@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
-I am a student of the Master's program of the Computer Graphics Laboratory of Moscow State University and the Yandex School of Data Analysis. 
+I am a student of :
+* "Computer vision, graphics and image processing" master program of the [Graphics and Media Lab](https://graphics.cs.msu.ru/home.html);
+* the Yandex School of Data Analysis. 
 
 Now I am actively engaged in research in the field of deep learning.
 

@@ -32,3 +32,6 @@ This repository serves more as a repository for educational projects, but also f
 
 ## Publications
 🌱 I'm on Research Gate: https://www.researchgate.net/profile/Arsenii-Shirokov
+
+## LeetCode
+https://leetcode.com/xDuckoff/

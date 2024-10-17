@@ -13,11 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
-I am a student of the [Yandex School of Data Analysis](https://academy.yandex.com/dataschool/) and "Computer vision, graphics and image processing" master's program of the [Graphics and Media Lab](https://graphics.cs.msu.ru/home.html). 
-
-Now I am actively engaged in research in the field of deep learning.
-
-This repository serves more as a repository for educational projects, but also for some of my pet or open source projects.
+AI researcher in [AIRI](https://airi.net).
+Now I am actively engaged in research in the field of deep learning, 3d computer vision and perception systems in SDV.
 
 
 📫 How to reach me: arsenii.shirokov@airi.net

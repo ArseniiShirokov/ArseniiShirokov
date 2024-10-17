@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 ## About me
 AI researcher in [AIRI](https://airi.net).
+
 Now I am actively engaged in research in the field of deep learning, 3d computer vision and perception systems in SDV.
 
 
